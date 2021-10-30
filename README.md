@@ -1,2 +1,2 @@
 # coursera-test
-This is a test repository for training qwiklabs 
+I am editing the README file. Adding some more details about the project description.
